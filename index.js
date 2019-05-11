@@ -15,7 +15,7 @@ function increaseRankBy(n) {
 
 function deepestChild() {
   var mee = document.querySelector(`#grand-mode`)
-  for (var i=0; i< ; i++) {
+  for (var i=0; i<5 ; i++) {
     mee = mee.children[0]
   }
   return mee
