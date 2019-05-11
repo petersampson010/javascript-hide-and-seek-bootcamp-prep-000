@@ -14,6 +14,6 @@ function increaseRankBy(n) {
 }
 
 function deepestChild() {
-  var mee = document..querySelectorAll(`div`)
+  var mee = document.getElementById().querySelectorAll(`div`)
   return mee[mee.length-1]
 }
